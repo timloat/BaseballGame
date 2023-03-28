@@ -1,0 +1,7 @@
+{
+  "name": "BaseballGame",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
